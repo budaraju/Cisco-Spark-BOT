@@ -12,12 +12,12 @@
   "scripts": {
     "start": "node $SCRIPT"
   },
-  "homepage": "https://github.com/CiscoDevNet/node-sparkbot-samples#readme",
+  "homepage": "https://github.com/budaraju/Cisco-Spark-BOT/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CiscoDevNet/node-sparkbot-samples.git"
+    "url": "git+https://github.com/budaraju/Cisco-Spark-BOT.git"
   },
-  "author": "Stève Sfartz (Cisco DevNet)",
+  "author": "Harshavardhan Budaraju (Uniki Softtech Pvt Ltd)",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.0",
